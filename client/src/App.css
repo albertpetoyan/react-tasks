@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.grid_container{
+  justify-content: center;
+  margin-top: 50px !important;
+  position: relative;
+}
